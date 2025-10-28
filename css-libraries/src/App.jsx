@@ -1,9 +1,10 @@
 import "./App.css";
+import Navigation from "./components/navigation";
 
 function App() {
   return (
     <>
-      <h1>CSS Libraries</h1>
+      <Navigation />
     </>
   );
 }
